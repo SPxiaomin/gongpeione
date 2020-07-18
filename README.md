@@ -1,3 +1,1 @@
-# gongpeione
-
-还没被灰度到💔
+![Gongpeione's github stats](https://github-readme-stats.vercel.app/api?username=gongpeione&show_icons=true)
